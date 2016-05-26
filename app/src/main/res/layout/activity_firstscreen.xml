@@ -11,6 +11,7 @@
     tools:context="com.example.hi.tripo.firstscreen"
     android:background="@color/colorPrimary">
 
+
     <TextView
         android:layout_width="200dp"
         android:layout_height="80dp"
